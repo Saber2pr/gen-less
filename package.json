@@ -1,10 +1,10 @@
 {
   "name": "@saber2pr/gen-less",
   "version": "0.0.1",
-  "description": "___",
+  "description": "> less-bundler.",
   "repository": {
     "type": "git",
-    "url": "git+__"
+    "url": "git+https://github.com/Saber2pr/gen-less.git"
   },
   "author": "saber2pr",
   "license": "ISC",

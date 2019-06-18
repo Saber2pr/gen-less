@@ -6,7 +6,7 @@
 # from npm
 npm install @saber2pr/gen-less -g
 
-git clone __
+git clone https://github.com/Saber2pr/gen-less.git
 ```
 
 # Usage
