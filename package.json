@@ -1,0 +1,35 @@
+{
+  "name": "@saber2pr/gen-less",
+  "version": "0.0.1",
+  "description": "___",
+  "repository": {
+    "type": "git",
+    "url": "git+__"
+  },
+  "author": "saber2pr",
+  "license": "ISC",
+  "files": [
+    "lib/core/*",
+    "lib/index.*"
+  ],
+  "bin": {
+    "genLess": "./lib/index.js"
+  },
+  "scripts": {
+    "test": "node ./lib/index.js ./src",
+    "start": "tsc --watch"
+  },
+  "keywords": [
+    "less",
+    "cli",
+    "node.js"
+  ],
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  },
+  "dependencies": {
+    "@saber2pr/node": "^0.2.4",
+    "@types/less": "^3.0.0",
+    "less": "^3.9.0"
+  }
+}
